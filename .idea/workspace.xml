@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f68b12e4-ff43-47db-b66e-2048009effee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="168" column="86" selection-start-line="168" selection-start-column="24" selection-end-line="168" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="267" lean-forward="true" selection-start-line="267" selection-end-line="267" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lg.py" />
+        <option value="$PROJECT_DIR$/uplodFile.py" />
+        <option value="$PROJECT_DIR$/UserTest.py" />
+        <option value="$PROJECT_DIR$/13.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1930" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1U6iCJBDeDSm6NZpOG5GGSMPALG" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PerformanceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PerformanceTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.56" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PerformanceTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PerformanceTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.uplodFile">
+    <configuration name="UserTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PerformanceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UserTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PerformanceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uplodFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PerformanceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uplodFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.uplodFile" />
+        <item itemvalue="Python.UserTest" />
+        <item itemvalue="Python.lg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f68b12e4-ff43-47db-b66e-2048009effee" name="Default Changelist" comment="" />
+      <created>1574683316061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574683316061</updated>
+      <workItem from="1574683317708" duration="5061000" />
+      <workItem from="1574735964100" duration="197000" />
+      <workItem from="1574736171340" duration="61000" />
+      <workItem from="1574747894816" duration="235000" />
+      <workItem from="1574749156542" duration="14572000" />
+      <workItem from="1574770415161" duration="1862000" />
+      <workItem from="1574772527495" duration="1366000" />
+      <workItem from="1574821250988" duration="11670000" />
+      <workItem from="1574851304603" duration="3828000" />
+      <workItem from="1574904897615" duration="5538000" />
+      <workItem from="1574938869704" duration="311000" />
+      <workItem from="1574939431133" duration="1762000" />
+      <workItem from="1574991130697" duration="4495000" />
+      <workItem from="1574996280298" duration="2230000" />
+      <workItem from="1575022380558" duration="2843000" />
+      <workItem from="1575271417123" duration="5694000" />
+      <workItem from="1575357047697" duration="2287000" />
+      <workItem from="1575359802694" duration="4685000" />
+      <workItem from="1575369943624" duration="4119000" />
+      <workItem from="1575537790957" duration="1459000" />
+      <workItem from="1575941877626" duration="2352000" />
+      <workItem from="1575960578714" duration="41000" />
+      <workItem from="1576031300242" duration="3207000" />
+      <workItem from="1576042074384" duration="1296000" />
+      <workItem from="1576043525429" duration="3852000" />
+      <workItem from="1576051003501" duration="1366000" />
+      <workItem from="1576117701403" duration="2651000" />
+      <workItem from="1576130468533" duration="874000" />
+      <workItem from="1576202055345" duration="783000" />
+      <workItem from="1576213370558" duration="10435000" />
+      <workItem from="1576229694526" duration="949000" />
+      <workItem from="1576547302196" duration="2080000" />
+      <workItem from="1576637537695" duration="361000" />
+      <workItem from="1576659124943" duration="626000" />
+      <workItem from="1577069224779" duration="2440000" />
+      <workItem from="1577079988589" duration="6000" />
+      <workItem from="1577080362754" duration="1983000" />
+      <workItem from="1577088690211" duration="599000" />
+      <workItem from="1577090361834" duration="2068000" />
+      <workItem from="1577096315448" duration="243000" />
+      <workItem from="1577097175882" duration="299000" />
+      <workItem from="1577097485404" duration="5329000" />
+      <workItem from="1577151695239" duration="1619000" />
+      <workItem from="1577158021092" duration="3013000" />
+      <workItem from="1577177702288" duration="6732000" />
+      <workItem from="1577237362960" duration="4723000" />
+      <workItem from="1577344594366" duration="14985000" />
+      <workItem from="1577411361806" duration="1697000" />
+      <workItem from="1577413356697" duration="3334000" />
+      <workItem from="1577417271412" duration="3746000" />
+      <workItem from="1577428285163" duration="1539000" />
+      <workItem from="1577430967731" duration="656000" />
+      <workItem from="1577433506377" duration="2228000" />
+      <workItem from="1577669871087" duration="925000" />
+      <workItem from="1577671327014" duration="1490000" />
+      <workItem from="1577689002942" duration="1593000" />
+      <workItem from="1577780072926" duration="827000" />
+      <workItem from="1578015461144" duration="2265000" />
+      <workItem from="1578294876621" duration="1377000" />
+      <workItem from="1578307062776" duration="590000" />
+      <workItem from="1578361104844" duration="599000" />
+      <workItem from="1578387354700" duration="592000" />
+      <workItem from="1578547568910" duration="599000" />
+      <workItem from="1579053349845" duration="17000" />
+      <workItem from="1579053640996" duration="8013000" />
+      <workItem from="1581401193076" duration="598000" />
+      <workItem from="1581558820602" duration="1950000" />
+      <workItem from="1581578076021" duration="598000" />
+      <workItem from="1581644931891" duration="2407000" />
+      <workItem from="1585038443597" duration="1021000" />
+      <workItem from="1592461713636" duration="205000" />
+      <workItem from="1592461932892" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="183056000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31343284" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50586355" side_tool="true" weight="0.13109426" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49413645" weight="0.25460455" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UserTest.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UserTest.py</url>
+          <line>307</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PerformanceTest$UserTest.coverage" NAME="UserTest Coverage Results" MODIFIED="1578294903068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PerformanceTest$lg.coverage" NAME="lg Coverage Results" MODIFIED="1574837704086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PerformanceTest$uplodFile.coverage" NAME="uplodFile Coverage Results" MODIFIED="1578294917489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Anaconda2/envs/lixy/Lib/site-packages/gevent/_ffi/loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/lixy/Lib/runpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/lixy/Lib/site-packages/locust/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="400" selection-start-line="400" selection-end-line="400" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/lixy/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/lixy/Lib/site-packages/locust/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="499" column="8" selection-start-line="499" selection-start-column="8" selection-end-line="499" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/lixy/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="888" selection-start-line="888" selection-end-line="888" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LicenceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uplodFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/lixy/Lib/site-packages/locust/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_login_public_key.pem">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="168" column="86" selection-start-line="168" selection-start-column="24" selection-end-line="168" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="267" lean-forward="true" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
